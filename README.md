@@ -1,2 +1,2 @@
-# Welcome to my personal website
-Get to know me!
+Hey there!
+Welcome to my GitHub profile!
